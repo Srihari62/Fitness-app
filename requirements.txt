@@ -8,4 +8,4 @@ Pillow==7.1.0               # Image processing for potential image handling
 requests==2.31.0             # API calls or web requests
 plotly==5.15.0               # Interactive plots for visual appeal
 setuptools
-
+distutils
